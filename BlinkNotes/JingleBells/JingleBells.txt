@@ -1,0 +1,21 @@
+Jingle Bells
+
+Right Hand
+1 = E - Eh	67
+2 = F		65
+3 = G - Gh	64
+
+Left Hand
+1 = E - Ew	64
+2 = D - Dh	62
+3 = C		60
+
+
+Note Order:
+Blue
+Red
+Green
+Purple
+Yellow
+Cyan
+White
